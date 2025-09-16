@@ -11,3 +11,7 @@ import Turtle
       t.right(90)
       t.left(80)
       t.forward(54)
+
+ t = turtle.Turtle()
+   turtle.done()
+   turtle.done()
